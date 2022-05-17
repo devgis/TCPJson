@@ -1,0 +1,8 @@
+E:\temp\TCPSender\TCPSender\bin\Debug\TCPSender.exe
+E:\temp\TCPSender\TCPSender\bin\Debug\TCPSender.pdb
+E:\temp\TCPSender\TCPSender\obj\Debug\TCPSender.csprojResolveAssemblyReference.cache
+E:\temp\TCPSender\TCPSender\obj\Debug\TCPSender.MainForm.resources
+E:\temp\TCPSender\TCPSender\obj\Debug\TCPSender.Properties.Resources.resources
+E:\temp\TCPSender\TCPSender\obj\Debug\TCPSender.csproj.GenerateResource.Cache
+E:\temp\TCPSender\TCPSender\obj\Debug\TCPSender.exe
+E:\temp\TCPSender\TCPSender\obj\Debug\TCPSender.pdb
